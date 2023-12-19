@@ -1,7 +1,5 @@
 package conta.model;
 
-import conta.Conta;
-
 public class ContaPoupanca extends Conta {
 
     private int aniversario;
